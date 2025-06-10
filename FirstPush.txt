@@ -3,4 +3,8 @@ Example
 
 
 adding new line ...!
+<<<<<<< HEAD
 Adding new line 11 ..!
+=======
+Trying to create diff between Local and remote Repo
+>>>>>>> 375399595c2f22718c2e29079a40d02814ab9e50
